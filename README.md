@@ -1,2 +1,2 @@
 # vowelscalculate
-C program to caculate number of vowels
+C program to input a string from user and caculate number of vowels
